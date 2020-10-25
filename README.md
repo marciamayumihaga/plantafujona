@@ -1,24 +1,10 @@
-# cadastrosala
+https://github.com/kool-dev/kool 
 
-## Project setup
-```
-npm install
-```
+https://kool.dev/docs/getting-started/installation
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+or Linux or MacOS
+In order to obtain kool under Linux and MacOS run the following script:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+curl -fsSL https://raw.githubusercontent.com/kool-dev/kool/master/install.sh | sudo bash
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
