@@ -13,7 +13,7 @@ Vue.directive('focus-on-create', {
 })
 
 const routes = {
-  '/': App,
+  '/index': App,
   '/sessao': AppSessao
 }
 
